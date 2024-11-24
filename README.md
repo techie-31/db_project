@@ -22,5 +22,5 @@ To run tests, run the following command
 
 ## File map
 
-![file map](mind_map.png)
+![file map](file_map.png)
 
