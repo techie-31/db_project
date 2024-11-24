@@ -8,7 +8,7 @@ A simple GUI project that save your user Id and password in DB.
 To run tests, run the following command
 
 
-* Install the requirements
+* Install requirements
 
 ```bash
   pip freeze > requirements.txt
@@ -18,4 +18,9 @@ To run tests, run the following command
 ```bash
   python -u main.py
 ```
+
+
+## File map
+
+![file map](mind_map.png)
 
