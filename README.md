@@ -1,7 +1,7 @@
 
 # DB project
 
-A simple GUI project that save your user Id and password in DB.
+A simple GUI project that saves your user Id and password in DB.
 
 ## Run Locally
 
